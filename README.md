@@ -7,5 +7,5 @@
 | 12019 | Doom's Day Algorithm | CPE 2021/3/23 |  O   |
 | 10921 | Ahoy, Pirates!       | CPE 2021/3/23 |  O   |
 | 725   | Division             | CPE 2021/3/23 |  O   |
-| 11489 | Integer Game         | CPE 2021/3/23 |  X   |
+| 11489 | Integer Game         | CPE 2021/3/23 |  O   |
 | 11495 | Bubbles and Buckets  | CPE 2021/3/23 |  X   |
